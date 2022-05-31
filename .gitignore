@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-#DS extensions
-.DS_Store
-
 # Distribution / packaging
 .Python
 build/
@@ -29,6 +26,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+#DS extensions
+.DS_Store
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
