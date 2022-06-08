@@ -21,9 +21,10 @@ With the possibility of Thomas High School’s 9th grade reading and math scores
 -The percentage passing reading originally is 85.80%, the new percentage passing reading is 86.83%.
 -The percentage overall passing originally is 65.17%, the new percentage overall passing is 65.95%.
 -Original Analysis:
-![](Resources%5CDistrict_summary_original.png)
+![District_summary_original](https://user-images.githubusercontent.com/103263248/172680111-ed10a129-1732-4695-82e5-2d12f00cbaf2.png)
 -Amended Analysis:
-![](Resources%5Cdistrict_summary_df.png.png)
+![district_summary_df png](https://user-images.githubusercontent.com/103263248/172680061-23f45250-fe64-462a-abe2-e88aa58172b7.png)
+
 
 ### School Summary
 The data was changed to isolate the student’s data for 10th through 12th grade, causing a large change to the summary for Thomas High School’s data results. By removing the 9th grade scores from the data set, Thomas High School’s the following is found.
@@ -33,13 +34,15 @@ The data was changed to isolate the student’s data for 10th through 12th grade
 -Original Analysis:
 [image]
 -Amended Analysis:
-![](Resources%5Cths_summary.png)
+![ths_summary](https://user-images.githubusercontent.com/103263248/172680187-325b0c42-d3d1-4208-8d5e-c526653e22b3.png)
 
 
 ### Thomas High School Performance
 By changing the suspected altered scores Thomas High School went from being the top second preforming high school to being the 15th in performance.
--Original Analysis:![](Resources%5Coriginal_top_5_schools.png)
--Amended Analysis: ![](Resources%5Cbottom_schools.png)
+-Original Analysis:![original_top_5_schools](https://user-images.githubusercontent.com/103263248/172680272-1090d975-289e-4d05-8524-e5a24994a873.png)
+
+-Amended Analysis: ![bottom_schools](https://user-images.githubusercontent.com/103263248/172680233-6c68c980-cbe2-42a4-8cc7-7e62abee6af0.png)
+
 
 ## Amened Analysis vs Original Analysis Results
 
@@ -47,8 +50,9 @@ By replacing the Thomas High School 9th grade scores there are changes that can 
 How does replacing the ninth-grade scores affect the following:
 ### Math and Reading Scores by grade
 The math and reading scores by grade are affected by being replaced with a null value, and now show up as a NaN value in the average math and reading scores.
-![](Resources%5Creadinng_scores_by_grade.png)
-![](Resources%5Cmath_scores_by_grade.png)
+![readinng_scores_by_grade](https://user-images.githubusercontent.com/103263248/172680303-07661c42-68cb-46a6-afe4-2ea08ab948aa.png)
+![math_scores_by_grade](https://user-images.githubusercontent.com/103263248/172680311-4e4e27f8-5ed1-427e-b13f-50d26bb09111.png)
+
 
 ### Scores by school spending
 The scores on school spending for changed for the range in which Thomas High School is categorized, the $630-$645 per student range. The average math and reading scores remained the same. The following changes can be seen.
@@ -56,9 +60,11 @@ The scores on school spending for changed for the range in which Thomas High Sch
 -Percentage passing reading originally 84%, the new percentage is 80% rounded.
 -Percentage overall passing originally 63%, the new percentage is 53% rounded.
 -Original Analysis:
-![](Resources%5Coriginal_spending_range_per_student.png)
+![original_spending_range_per_student](https://user-images.githubusercontent.com/103263248/172680416-8d53663f-46b3-4226-bd78-db3175b8b00e.png)
 -Amended Analysis:
-![](Resources%5Cspending_range_per_student.png)
+![spending_range_per_student](https://user-images.githubusercontent.com/103263248/172680343-b20cc8ae-8375-4f5b-be60-4620dccc58a4.png)
+
+
 
 ### Scores by school size
 By changing the Thomas High School 9th grader data there was only a slight change to the scores by school size. The small and large sized school scores are unaffected due to Thomas High school being in the medium sized category. To see the change in values for the medium school size the percentages must be shown to the hundredths decimal point. 
@@ -66,9 +72,9 @@ By changing the Thomas High School 9th grader data there was only a slight chang
 -Percentage passing reading originally is 96.79%, the new percentage is 96.66%.
 -Percentage overall passing originally is 90.62%, the new percentage is 90.54%
 -Original Analysis:
-![](Resources%5Coriginal_school_size.png)
+![original_school_size](https://user-images.githubusercontent.com/103263248/172680461-c26eccea-f633-4e0d-a192-34c0fb37c0ef.png)
 -Amended Analysis:
-![](Resources%5Cscores_by_school_size.png.png)
+![scores_by_school_size png](https://user-images.githubusercontent.com/103263248/172680488-b5a721e3-a9a2-4297-a867-2b87a2a00576.png)
 
 ### Scores by school type
 Thomas High School is listed as a charter type school. Amending the analysis with changing the 9th grade scores has a small impact on the data for scores by school type for charters. The district scores by school type remain unaffected.
@@ -76,9 +82,10 @@ Thomas High School is listed as a charter type school. Amending the analysis wit
 -Percentage passing reading originally is 96.59%, the new percentage is 96.48%.
 -Percentage overall passing originally is 90.43%, the new percentage is 90.36%.
 -Original Analysis:
-![](Resources%5Coriginal_school_type.png)
+![original_school_type](https://user-images.githubusercontent.com/103263248/172680572-1c979f14-5c95-495b-822d-436a06b042df.png)
 -Amended Analysis:
-![](Resources%5Cscores_by_school_type.png)
+![scores_by_school_type](https://user-images.githubusercontent.com/103263248/172680538-9897a65b-f2b6-41d9-a769-c09eac51d561.png)
+
 
 ## Summary of updated school district analysis
  Four changes we can see in the school district analysis after changing the Thomas High School reading and math scores to null, replacing it with NANs are as follows. 
