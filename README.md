@@ -57,6 +57,7 @@ By changing the suspected altered scores Thomas High School went from being the 
 
 ### Math and Reading Scores by grade
 The math and reading scores by grade are affected by being replaced with a null value, and now show up as "NaN" in the average math and reading scores.
+
 ![readinng_scores_by_grade](https://user-images.githubusercontent.com/103263248/172680303-07661c42-68cb-46a6-afe4-2ea08ab948aa.png)
 ![math_scores_by_grade](https://user-images.githubusercontent.com/103263248/172680311-4e4e27f8-5ed1-427e-b13f-50d26bb09111.png)
 
