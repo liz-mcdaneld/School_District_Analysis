@@ -20,6 +20,7 @@ With the possibility of Thomas High School’s 9th grade reading and math scores
 -The percentage passing math originally is 74.98%, the new percentage passing math 75.87%.
 -The percentage passing reading originally is 85.80%, the new percentage passing reading is 86.83%.
 -The percentage overall passing originally is 65.17%, the new percentage overall passing is 65.95%.
+
 -Original Analysis:
 ![District_summary_original](https://user-images.githubusercontent.com/103263248/172680111-ed10a129-1732-4695-82e5-2d12f00cbaf2.png)
 -Amended Analysis:
@@ -31,17 +32,20 @@ The data was changed to isolate the student’s data for 10th through 12th grade
 - Overall passing rate went from 91% to 65%.  
 -Percentage Passing math went from 93% to 67%.
 -Percentage Passing reading went from 97% to 70%. 
+
 -Original Analysis:
-[image]
+![ths_summary_origiinal](https://user-images.githubusercontent.com/103263248/172680995-c222c5e2-cb72-4675-b441-5d0f4adec088.png)
 -Amended Analysis:
 ![ths_summary](https://user-images.githubusercontent.com/103263248/172680187-325b0c42-d3d1-4208-8d5e-c526653e22b3.png)
 
 
 ### Thomas High School Performance
 By changing the suspected altered scores Thomas High School went from being the top second preforming high school to being the 15th in performance.
--Original Analysis:![original_top_5_schools](https://user-images.githubusercontent.com/103263248/172680272-1090d975-289e-4d05-8524-e5a24994a873.png)
 
--Amended Analysis: ![bottom_schools](https://user-images.githubusercontent.com/103263248/172680233-6c68c980-cbe2-42a4-8cc7-7e62abee6af0.png)
+-Original Analysis:
+![original_top_5_schools](https://user-images.githubusercontent.com/103263248/172680272-1090d975-289e-4d05-8524-e5a24994a873.png)
+-Amended Analysis:  
+![bottom_schools](https://user-images.githubusercontent.com/103263248/172680233-6c68c980-cbe2-42a4-8cc7-7e62abee6af0.png)
 
 
 ## Amened Analysis vs Original Analysis Results
@@ -59,6 +63,7 @@ The scores on school spending for changed for the range in which Thomas High Sch
 -Percentage passing math originally is 73%, the new percentage is 67% rounded.
 -Percentage passing reading originally 84%, the new percentage is 80% rounded.
 -Percentage overall passing originally 63%, the new percentage is 53% rounded.
+
 -Original Analysis:
 ![original_spending_range_per_student](https://user-images.githubusercontent.com/103263248/172680416-8d53663f-46b3-4226-bd78-db3175b8b00e.png)
 -Amended Analysis:
